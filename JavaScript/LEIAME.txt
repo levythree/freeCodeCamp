@@ -1,0 +1,1 @@
+Exercícios e projetos do curso "JavaScript Algorithms and Data Structures".
